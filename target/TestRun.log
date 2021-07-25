@@ -1,0 +1,7 @@
+2021-07-25 20:18:59 [INFO ] [SignIn] - [enter_Email] entered email sonali@recko.io
+2021-07-25 20:18:59 [INFO ] [SignIn] - [clickNextForPassword] clicked on next for password
+2021-07-25 20:19:19 [INFO ] [SignIn] - [enter_Password] entered password
+2021-07-25 20:19:24 [INFO ] [SignIn] - [clickNextForLogin] clicked on next for password
+2021-07-25 20:19:57 [INFO ] [SignIn] - [click_FirstMail] clicked on Mail
+2021-07-25 20:19:58 [INFO ] [SignIn] - [check_Subject] Test
+2021-07-25 20:19:58 [INFO ] [SignIn] - [check_Body] Test for Automation

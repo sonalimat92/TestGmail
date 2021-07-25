@@ -1,0 +1,2 @@
+stepDefinitions\OpenMailAndValidateTheBody.class
+runner\OpenMailAndValidateTheBody_Test.class
